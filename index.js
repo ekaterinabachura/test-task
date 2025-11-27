@@ -1,7 +1,7 @@
 import axios from 'axios';
 import fs from 'fs';
 
-const BITRIX_WEBHOOK_URL = 'https://b24-bfkl1f.bitrix24.by/rest/1/iau9iqg86x137bbn/'; 
+const BITRIX_WEBHOOK_URL = 'https://xxxxx.bitrix24.by/rest/xxxxx/xxxxx/'; 
 const GOAL_COUNT = 10000;
 
 async function fetchCompanies() {
